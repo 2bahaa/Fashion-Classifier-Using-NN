@@ -1,1 +1,2 @@
 # Fashion-Classifier-Using-NN
+The Fashion Classifier is a neural network model that categorizes fashion items into ten classes: 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', and 'Ankle boot', with an impressive 89% accuracy. Designed for applications in e-commerce, inventory management, and fashion analytics, it leverages advanced deep learning techniques to reliably predict and tag a diverse range of clothing and accessories, enhancing user experience and operational efficiency in the fashion industry.
